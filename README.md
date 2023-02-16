@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SkyLing
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-elmegaender99/elmegaender99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hola gente
+- 👀 Soy Programador Y Creo Que Hacker
+- 🔰 Programo En Bash Y Python
+- 👨🏻‍💻 Hacking,Programación Y Mucho Phonk
+- 🦆 Años En El Tema
